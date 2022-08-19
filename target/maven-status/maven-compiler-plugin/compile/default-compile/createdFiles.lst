@@ -1,0 +1,8 @@
+com\pro\wings\controller\ServerManagementController.class
+com\pro\wings\entity\ServerManagement.class
+com\pro\wings\dao\ServerManagementDaoImpl.class
+com\pro\wings\service\ServerManagementService.class
+com\pro\wings\config\FrontControllerConfig.class
+com\pro\wings\dao\ServerManagementDao.class
+com\pro\wings\config\WebAppConfig.class
+com\pro\wings\service\ServerManagementServiceImpl.class
